@@ -1,4 +1,4 @@
-# E-Commerce Product Scraping Site
+# Price Mate: E-Commerce Product Scraping Site
 
 This e-commerce product scraping site, developed using Next.js and Bright Data's webunlocker, is designed to assist users in making informed decisions while shopping online. By utilizing advanced web scraping techniques, the site notifies users when a product drops in price and helps competitors by alerting them when the product is out of stock. These functionalities are managed through cron jobs, ensuring timely and accurate updates.
 
